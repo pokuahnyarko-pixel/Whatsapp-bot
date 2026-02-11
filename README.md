@@ -13,10 +13,9 @@ pkg install nodejs git
 2. Install the Bot
 
 ```bash
-# Clone or create project
-mkdir kingsley-bot && cd kingsley-bot
+Clone https://github.com/pokuahnyarko-pixel/Whatsapp-bot.git
+cd kingsley-bot
 
-# Create package.json and index.js files
 # Then install dependencies
 npm install
 ```
